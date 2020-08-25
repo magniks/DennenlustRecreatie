@@ -1,0 +1,62 @@
+.Logo {
+  width: 25%;
+  color: #A4F9C8;
+}
+
+.navbar {
+  color: #A4F9C8;
+}
+
+.titel{
+  text-align: center;
+  color: #5C6F68;
+}
+
+p{
+  text-align: center;
+  font-size: 150%;
+}
+
+.titelGroot{
+  font-size: 500%;
+}
+
+.TitelContainer{
+  background-color: #95D9C3;
+  padding-top: 18em;
+  padding-bottom: 18em;
+}
+
+.Foto{
+  width: 50%;
+  border-radius: 1em;
+  margin-top: 8em;
+  margin-left: 25%;
+}
+
+.Hoofdstuk{
+  padding-top: 14em;
+  padding-bottom: 14em;
+}
+
+.Onderdeel{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20%;
+}
+
+.Intro{
+  background-color: #D3FFE9;
+}
+
+.FotoHoog{
+  height: 60%;
+}
+
+.Theater{
+  background-color: #8DDBE0;
+}
+
+.Samenwerking{
+  background-color: #95D9C3;
+}
